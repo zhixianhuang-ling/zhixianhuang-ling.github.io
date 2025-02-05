@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /markdown/
     
   - title: "CV"
     url: /assets/js/CV_20250205.pdf
