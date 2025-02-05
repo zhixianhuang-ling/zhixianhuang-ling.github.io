@@ -28,7 +28,7 @@ author:
   bio              : "Syntactician"
   location         : "Los Angeles, CA, USA"
   employer         : "University of Southern California"
-  uri              : "https://dornsife.usc.edu/ling/"
+  uri              : #"https://dornsife.usc.edu/ling/"
   email            : "zhix.huang@usc.edu" 
 
   # Academic websites
