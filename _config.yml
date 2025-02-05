@@ -28,14 +28,14 @@ author:
   bio              : "Syntactician"
   location         : "Los Angeles, CA, USA"
   employer         : "University of Southern California"
-  uri              : # 
+  uri              : # [USC Linguistics] https://dornsife.usc.edu/ling/
   email            : "zhix.huang@usc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
