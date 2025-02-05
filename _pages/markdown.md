@@ -14,18 +14,17 @@ I work on syntax and its interface with semantics and phonology. I am currently 
 I work primarily on Chinese languages.
 
 
-## Non-canonical Objects in Mandarin Chinese
-I revisited the structures and semantics of non-canonical objects (NCOs, i.e., unselected objects) in Mandarin Chinese. I show a novel empirical generalization that there are three structually different NCOs, of each type the structure is derived by independent motivations. 
-> Output:
->>In prep. Revisiting Non-canonical Objects in Mandarin Chinese.
+## Unselected Objects in Mandarin Chinese
+I revisit the 'unselectiveness' of objects in Mandarin Chinese (i.e., literally “John ate restaurant”, meaning ‘John ate at the restaurant’). I propose a novel empirical generalization that there are three structually different unselected constructions, each of which has a structure derived by independent motivations.
+
+> In prep. Revisiting Non-canonical Objects in Mandarin Chinese.
 
 ## Obligatory OV order in Wu Chinese
 (with Andrew Simpson) <br>
-Wu Chinese is a SVO language while possesses obligatory OV order. We argue that it is not driven by the information structure, by an autoreflex of syntax. The OV order is conditioned by the interacton of voice, aspect, and nominal properties.
+Wu Chinese is a SVO language while possesses obligatory OV order. We argue that it is not driven by information structure, by an autoreflex of syntax. The OV order is conditioned by the interacton of voice, aspect, and nominal properties.
 
->Outputs:
-  >>Obligatory OV order in Wu Chinese. Talk presented at the 12th International Conference on Wu dialects. Oct 25-27, 2024. Zhejiang University.<br>
-  >> Issues of OV/VO word order in Wu Chi- nese. Talk presented at the 36th North American Conference on Chinese Lin- guistics (NACCL-36). Mar 22-24, 2024. Pomona College
+  > Obligatory OV order in Wu Chinese. Talk presented at the 12th International Conference on Wu dialects. Oct 25-27, 2024. Zhejiang University.<br>
+  > Issues of OV/VO word order in Wu Chinese. Talk presented at the 36th North American Conference on Chinese Linguistics (NACCL-36). Mar 22-24, 2024. Pomona College
 
 
 
