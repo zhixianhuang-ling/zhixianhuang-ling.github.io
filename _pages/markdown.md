@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Research Projects"
+title: "Research interests and projects"
 author_profile: true
 redirect_from: 
   - /md/
@@ -11,7 +11,7 @@ I work on syntax and its interface with semantics and phonology. I am currently 
 * Linearization
 * Focus and alternatives <br>
   
-I work primarily on Mandarin Chinese and my home variety Jiaxing Wu Chinese, of which I am a native speaker.
+I work primarily on Chinese languages.
 
 ## Obligatory OV order in Wu Chinese
 * (with Andrew Simpson)
@@ -22,7 +22,7 @@ I work primarily on Mandarin Chinese and my home variety Jiaxing Wu Chinese, of 
   * Issues of OV/VO word order in Wu Chi- nese. Talk presented at the 36th North American Conference on Chinese Lin- guistics (NACCL-36). Mar 22-24, 2024. Pomona College
 
 ## Non-canonical Objects in Mandarin Chinese
-* I revisited the structures and semantics of non-canonical objects (NCOs, i.e., unselected objects) in Mandarin Chinese. I show a novel empirical generalization that there are three structually different types of NCOs, of each type the structure is derived by independent motivations. 
+* I revisited the structures and semantics of non-canonical objects (NCOs, i.e., unselected objects) in Mandarin Chinese. I show a novel empirical generalization that there are three structually different NCOs, of each type the structure is derived by independent motivations. 
 * Outputː
   * In prep. Revisiting Non-canonical Objects in Mandarin Chinese.
 
